@@ -1,5 +1,5 @@
 <center>
-  <img src='https://earthengine.google.com/static/images/earth-engine-logo.png' width=50%/>
+  <img src='https://earthengine.google.com/static/images/earth-engine-logo.png' width=10%/>
  </center>
 
 ## Playing-with-colab
