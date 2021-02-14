@@ -1,7 +1,7 @@
 <center>
   <img src='https://earthengine.google.com/static/images/earth-engine-logo.png' align='left' width=10%/>
   <img src='https://colab.research.google.com/img/colab_favicon_256px.png' align='right' width=10%/>
- </center>
+</center>
 
 ## Playing-with-colab
 
