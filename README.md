@@ -1,4 +1,4 @@
-![](https://earthengine.google.com/static/images/GoogleEarthEngine_Grey_108.png)
+![](https://earthengine.google.com/static/images/earth-engine-logo.png)
 
 ## Playing-with-colab
 
