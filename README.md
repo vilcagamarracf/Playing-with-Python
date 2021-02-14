@@ -1,4 +1,6 @@
-![](https://earthengine.google.com/static/images/earth-engine-logo.png)
+<center>
+  <img src='https://earthengine.google.com/static/images/earth-engine-logo.png' width=50%/>
+ </center>
 
 ## Playing-with-colab
 
