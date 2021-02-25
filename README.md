@@ -6,9 +6,12 @@
   </div>
 </center>
 
-<img src= 'https://media1.tenor.com/images/48e1afc1fbdc8fa9ed3a8ab5ebb04b91/tenor.gif' width=14%>
 
 ## Playing-with-Python
+
+<center>
+  <img src= 'https://media1.tenor.com/images/48e1afc1fbdc8fa9ed3a8ab5ebb04b91/tenor.gif' width=14%>
+</center>
 
 Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
 Dividiré el contenido en dos carpetas: Uno para libretas Jupyter y otro para libretas de Colab.
