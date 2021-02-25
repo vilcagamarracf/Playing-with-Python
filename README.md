@@ -6,5 +6,6 @@
 ## Playing-with-Python
 
 Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
+Dividiré el contenido en dos carpetas: Uno para libretas Jupyter y otro para libretas de Colab.
 
 03/01/2021
