@@ -14,11 +14,28 @@
 
 # Playing-with-Python <img src="https://www.dataquest.io/wp-content/uploads/2020/05/python_logo.png" align="right" width="150" />
 
-## Descripción
+## Descripción 🚀
 
 Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
 
 Dividiré el contenido en dos carpetas:
 - libretas Jupyter
-- y libretas de Colab.
+- y libretas de Colab (en proceso)
 
+<table>
+<tr>
+<th> Python </th>
+</tr>
+<tr>
+
+<td>
+
+``` python
+print('Bienvenido a este repositorio!')
+#> Bienvenido a este repositorio!
+```
+
+</td>
+
+</tr>
+</table>
