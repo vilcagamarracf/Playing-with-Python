@@ -12,7 +12,7 @@
  </center> -->
 
 
-# Playing-with-Python <img src="https://www.dataquest.io/wp-content/uploads/2020/05/python_logo.png" align="right" width="150" />
+# Playing-with-Python <img src="python_logo.png" align="right" width="150" />
 
 ## Descripción 🚀
 
