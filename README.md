@@ -15,13 +15,7 @@
 
 ## Descripción 🚀
 
-Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
-
-Dividiré el contenido en dos carpetas:
-- libretas Jupyter
-- y libretas de Colab (en proceso)
-
-## Visualización de libretas 📓
+Carpeta con libretas 📓 (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
 
 Mediante `nbviewer` podrás revisar las libretas de jupyter (.ipynb): [Ver libretas](https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/)
 
