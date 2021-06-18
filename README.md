@@ -11,7 +11,6 @@
    </div>
  </center> -->
 
-
 # Playing-with-Python <img src="python_logo.png" align="right" width="150" />
 
 ## Descripción 🚀
@@ -22,20 +21,19 @@ Dividiré el contenido en dos carpetas:
 - libretas Jupyter
 - y libretas de Colab (en proceso)
 
-<table>
-<tr>
-<th> Python </th>
-</tr>
-<tr>
+## Visualización de libretas
 
-<td>
+Mediante `nbviewer` podrás revisar las libretas de jupyter (.ipynb): [Ver libretas](https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/)
 
-``` python
-print('Bienvenido a este repositorio!')
-#> Bienvenido a este repositorio!
-```
+## Próximamente
 
-</td>
-
-</tr>
-</table>
+- Visualización de datos con:
+  - Matplotlib
+  - Seaborn
+  - Bokeh
+  - Plotly
+  - Altair
+  - Ya ves cual usar...
+- Una que otra cosa de Machine Learning 
+- Algo de Computer Vision
+- y más...
