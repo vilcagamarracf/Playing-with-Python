@@ -1,6 +1,13 @@
-| Actividad |
+<!-- | Actividad |
 |---|
-|![GitHub last commit](https://img.shields.io/github/last-commit/vilcagamarracf/Playing-with-Python?color=g)|
+|![GitHub last commit](https://img.shields.io/github/last-commit/vilcagamarracf/Playing-with-Python?color=g)| -->
+
+<h1 align="center"> Playing-with-Python 🖊️</h1>
+<h4 align="center"> Libretas de Python sobre aplicaciones en Ingeniería Agrícola</h4>
+
+<p align='center'>
+   <img src='https://img.shields.io/github/last-commit/vilcagamarracf/Playing-with-Python?color=g'/>
+</p>
 
 <!-- <center>
    <div class='row'>
@@ -11,7 +18,7 @@
    </div>
  </center> -->
 
-# Playing-with-Python 🖊️  <img src="python_logo.png" align="right" width="150" />
+<img src="python_logo.png" align="right" width="150" />
 
 ## Descripción 🚀
 
