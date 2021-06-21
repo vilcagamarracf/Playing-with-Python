@@ -39,6 +39,6 @@ Mediante `nbviewer` podrás revisar las libretas de jupyter (.ipynb): <a href="h
 - Algo de Computer Vision
 - y más...
 
-> &nbsp;&middot;&nbsp; [vilcagamarracf.github.io](https://vilcagamarracf.github.io/) &nbsp;&middot;&nbsp;
+> &nbsp;&middot;&nbsp; Website [vilcagamarracf.github.io](https://vilcagamarracf.github.io/) &nbsp;&middot;&nbsp;
 > GitHub [@vilcagamarracf](https://github.com/vilcagamarracf) &nbsp;&middot;&nbsp;
 > Twitter [@CesarVilca19](https://twitter.com/CesarVilca19)
