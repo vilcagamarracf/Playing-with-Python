@@ -23,7 +23,8 @@
 
 Carpeta con libretas 📓 (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
 
-Mediante `nbviewer` podrás revisar las libretas de jupyter (.ipynb): <a href="https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/" target="_blank">Ver libretas</a>.
+Ver libretas online: 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/)
 
 ## Próximamente 🔜
 
