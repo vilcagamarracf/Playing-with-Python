@@ -19,14 +19,14 @@
 
 <img src="python_logo.png" align="right" width="150" />
 
-## Descripción 🚀
+## Descripción
 
-Carpeta con libretas 📓 (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
+Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
 
 Ver libretas online: 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/)
 
-## Próximamente 🔜
+## Próximamente
 
 - Visualización de datos con:
   - Matplotlib
