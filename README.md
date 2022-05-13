@@ -21,23 +21,20 @@
 
 ## Descripción
 
-Carpeta con libretas (Jupyter Notebooks y Colab) sobre las aplicaciones aprendidas hasta el momento con Python.
+Repositorio con libretas (Jupyter Notebooks y Colab) y scripts sobre aplicaciones desarrolladas con Python.
 
-Ver libretas online: 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/vilcagamarracf/Playing-with-Python/tree/main/jupyter_notebooks/)
+Libretas:
+- [Manejo de archivos locales](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/01_archivos_locales.ipynb)
+- [Manejo de archivos .csv](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/02_manejo_de_csvs.ipynb)
+- [Imagenes satelitales Sentinel-2](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/03_Imagenes_satelitales_S2.ipynb)
+- [Earth Engine](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/04_Earth_Engine.ipynb)
+- [Clasificación de cultivos con Earth Engine](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/05_Clasificacion_de_cultivos_EE.ipynb)
+- [Visualización de datos](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/06_Visualizacion_de_datos.ipynb)
 
-## Próximamente
+o
 
-- Visualización de datos con:
-  - Matplotlib
-  - Seaborn
-  - Bokeh
-  - Plotly
-  - Altair
-  - Ya ves cual usar...
-- Una que otra cosa de Machine Learning 
-- Algo de Computer Vision
-- y más...
+usando nbviewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
+https://nbviewer.org/github/vilcagamarracf/Playing-with-Python/tree/main/notebooks/)
 
 ## Contacto
 En estas redes sociales comparto una variedad de contenidos sobre Agricultura de Precisión, programación con Earth Engine y más.
