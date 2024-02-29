@@ -17,7 +17,7 @@
    </div>
  </center> -->
 
-<img src="python_logo.png" align="right" width="150" />
+<!-- <img src="python_logo.png" align="right" width="150" /> -->
 
 ## Descripción
 
@@ -31,9 +31,7 @@ Libretas:
 - [Clasificación de cultivos con Earth Engine](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/05_Clasificacion_de_cultivos_EE.ipynb)
 - [Visualización de datos](https://github.com/vilcagamarracf/Playing-with-Python/blob/main/notebooks/06_Visualizacion_de_datos.ipynb)
 
-o
-
-usando nbviewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
+o usando nbviewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
 https://nbviewer.org/github/vilcagamarracf/Playing-with-Python/tree/main/notebooks/)
 
 ## Contacto
